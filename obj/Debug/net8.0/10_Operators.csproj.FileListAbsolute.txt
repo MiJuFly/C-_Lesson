@@ -12,3 +12,4 @@ D:\Projekty\C#\10_Operators\obj\Debug\net8.0\refint\10_Operators.dll
 D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.pdb
 D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.genruntimeconfig.cache
 D:\Projekty\C#\10_Operators\obj\Debug\net8.0\ref\10_Operators.dll
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.sourcelink.json

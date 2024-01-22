@@ -25,6 +25,16 @@ Console.WriteLine("_____________________Assigment Operators ____________________
  Console.WriteLine(a);
  a %= 3M;   // a= 10/3 reszta 1 a=1
  Console.WriteLine(a);
+Console.WriteLine("_____________________Increment/Decrement Operators _____________________________");
+a =10M;
+Console.WriteLine(a);
+Console.WriteLine(++a); // output 11
+Console.WriteLine(a++); // Output 11
+Console.WriteLine(a);   // Output 12
+Console.WriteLine(--a); // Output 11
+Console.WriteLine(a--); // Output 11
+Console.WriteLine(a);   // Output 10
+
 
 
 Console.ReadKey();
