@@ -1,0 +1,14 @@
+D:\Projekty\C#\10_Operators\bin\Debug\net8.0\10_Operators.exe
+D:\Projekty\C#\10_Operators\bin\Debug\net8.0\10_Operators.deps.json
+D:\Projekty\C#\10_Operators\bin\Debug\net8.0\10_Operators.runtimeconfig.json
+D:\Projekty\C#\10_Operators\bin\Debug\net8.0\10_Operators.dll
+D:\Projekty\C#\10_Operators\bin\Debug\net8.0\10_Operators.pdb
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.AssemblyInfoInputs.cache
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.AssemblyInfo.cs
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.dll
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\refint\10_Operators.dll
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.pdb
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\10_Operators.genruntimeconfig.cache
+D:\Projekty\C#\10_Operators\obj\Debug\net8.0\ref\10_Operators.dll
