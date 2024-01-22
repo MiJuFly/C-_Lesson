@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Reflection;
+
 decimal a = 10M;
 decimal b = 3M;
 decimal c = a + b; //Output 13
@@ -63,5 +65,20 @@ bool b11 = !(a==10);
 Console.WriteLine(b11); // False
 bool b12 = a==10 ^ b==10;
 Console.WriteLine(b12); //True
+Console.WriteLine();
+Console.WriteLine("_______________Concatenation Operators________________________________");
+string name = "Mchal";
+int age = 20;
+string message = "Hey " + name + ", your age is " + age +".";
+Console.WriteLine(message);
+
+Console.WriteLine("_______________Ternary Operators________________________________");
+Console.Write("Insert age:");
+int test = Convert.ToInt32(Console.ReadLine());
+
+string title = (test<14)? "Child" : (test>=14 && test<= 17)? "Teenager" : "adult";
+Console.WriteLine(title);
+
+
 
 Console.ReadKey();
