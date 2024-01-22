@@ -48,9 +48,20 @@ bool b5 = a <= 10;
 Console.WriteLine(b5);  //True
 bool b6 = a >= 10;
 Console.WriteLine(b6);  //True
+Console.WriteLine();
+Console.WriteLine("_______________Logical Operators________________________________");
 
-
-
-
+bool b7 = a==10 & b==10;// a=10 a b=3
+Console.WriteLine(b7);  // False
+bool b8 = a==10 && b==10;
+Console.WriteLine(b8);  // False
+bool b9 = a==10 | b==10;// Or
+Console.WriteLine(b9);  // True
+bool b10 = a==10 || b==10;
+Console.WriteLine(b10); // True
+bool b11 = !(a==10);
+Console.WriteLine(b11); // False
+bool b12 = a==10 ^ b==10;
+Console.WriteLine(b12); //True
 
 Console.ReadKey();
