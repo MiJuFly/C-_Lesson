@@ -35,6 +35,22 @@ Console.WriteLine(--a); // Output 11
 Console.WriteLine(a--); // Output 11
 Console.WriteLine(a);   // Output 10
 
+Console.WriteLine("_____________Comperation Operators__________________");
+bool b1 = a == 10;
+Console.WriteLine(b1);  //True
+bool b2 = a != 10;
+Console.WriteLine(b2);  //False
+bool b3 = a < 10;
+Console.WriteLine(b3);  //False
+bool b4 = a > 10;
+Console.WriteLine(b4);  // False
+bool b5 = a <= 10;
+Console.WriteLine(b5);  //True
+bool b6 = a >= 10;
+Console.WriteLine(b6);  //True
+
+
+
 
 
 Console.ReadKey();
